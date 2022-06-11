@@ -1,3 +1,3 @@
 # from-ST-to-Graph
 
-### Unfortunately there is no documentation :'(
+### Project temporarely not available due to possible commercialization of the softwer :)
